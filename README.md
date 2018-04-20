@@ -1,1 +1,2 @@
-# Code_Repository
+#用java实现简单的数据结构
+**线性表，非线性表，树，以及hash散列表
